@@ -47,7 +47,7 @@ Our product is a highly secured banking system that is only accessed by authoriz
 * Employees can add new customers to the database
 
 ### Near Vision (Sprint 2):
-* Complete the task uncompleted from sprint 1
+* Complete the uncompleted task from sprint 1
 * Check all tasks from sprint 1 are working as required
 * Create employee's account page
 * Employee can handle the system more easily
@@ -115,8 +115,10 @@ Hence it will be done in the start of sprint 2
 #### Sprint 2 Goal:
 * Create employee's account page
 * Employees edit and control all customer's functionalities
-* Unit Testing on the employee account page functionalities 
+* Managers could now add new employees
+* Employees can add new customers' accounts
 * Integration testing would be done between login page and account page
+
 
 #### Delivered Epic:
 Customer Account Functionalities
