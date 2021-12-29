@@ -34,7 +34,7 @@ Our product is a highly secured banking system that is only accessed by authoriz
 * Bank employees
 
 ### Far Vision:
-* Create a banking system that have a user friendly GUI that passes through all testing kinds handled by employees and managers that can do the following:
+Create a banking system that have a user friendly GUI that passes through all testing kinds handled by employees and managers that can do the following:
 * Create/edit/delete accounts
 * Manage loans and benefits
 * Deposit/withdraw money 
