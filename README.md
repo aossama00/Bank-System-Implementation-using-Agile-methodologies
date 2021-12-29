@@ -29,9 +29,9 @@ Our product is a highly secured banking system that is only accessed by authoriz
 
 ## My product Vision
 ### Stakeholders:
-Bank Owner
-Bank Managers
-Bank employees
+* Bank Owner
+* Bank Managers
+* Bank employees
 
 ### Far Vision:
 Create a banking system that have a user friendly GUI handled by employees and managers that can do the following:
@@ -58,6 +58,6 @@ Fibonacci Series (1, 2, 3, 5, 8, 13...), where 13 represents big story that need
 
 ## Product Backlog Items (ordered rationale):
 The rationale of this order of my Product Backlog Items is that our team see it is the most important thing to crete a secured database to hold all customers' accounts.
-then it must be secured to prevent data theft. Then the employee will need to login through a homepage to his account. After that the system verify his login details. to move the user (employee) to his account page (which is completed in sprint 2). Then employee and manager could be able to add records to the database.Then the design of the account of employee is done in sprint 2 which allow the employee to do all the customers ' account functionalities
+then it must be secured to prevent data theft. Then the employee will need to login through a homepage to his account. After that the system verify his login details. to move the user (employee) to his account page (which is completed in sprint 2). Then employee and manager could be able to add records to the database.Then the design of the account of employee is done in sprint 2 which allow the employee to do all the customers ' account functionalities.
 
 # Part 2
