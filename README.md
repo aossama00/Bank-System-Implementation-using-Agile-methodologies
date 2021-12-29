@@ -27,7 +27,7 @@ Sara Sabry|	System Testing |	C++
 ## Project description
 Our product is a highly secured banking system that is only accessed by authorized users, it stores accounts of customers and their amount of money. Customers can transfer money between accounts by the help of employees. There are 10 members working on this project in an agile manner. We aim to create a suitable sized database that can contain all records needed linked with a friendly graphical user interface that all users can handle easily so that it can cover all banking responsibilties required. Employees will be able to handle all customers accounts' functionalities using the system
 
-## My product Vision
+## My product Vision (Banking System)
 ### Stakeholders:
 * Bank Owner
 * Bank Managers
