@@ -90,8 +90,6 @@ Abdullah Yehia | Is there anything blocking you?	| bugs in the java code | Some 
 
 ## 3. Sprint Document
 ### Sprint 1
-#### What was done in the last sprint:
-Nothing
 
 #### Sprint 1 Goal:
 * A secured database that contain all customers' accounts shall be created and tested
