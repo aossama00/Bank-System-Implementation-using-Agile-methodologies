@@ -119,3 +119,14 @@ Hence it will be done in the start of sprint 2
 Customer Account Functionalities
 
 ## 4. WorkFlow
+### 4.1. Rationale
+All stories at first are put in the "TO DO" state. After starting the sprint, stories at the begining of thesprint moves to "IN PROGRESS" state.
+Then this story starts working and moves to the "TASK REVIEW" state which evaluates the task and ensures it passes the definition of acceptance.
+If it passes the acceptance criteria and state ensures it is completed, it can be accepted and moves to "DONE" state. Otherwise, the task would fail task review and marked as uncompleted task so it moves back to "IN PROGRESS" state
+Once the story reaches the "DONE" state it cannot move back to any state. It has to be carried to the next sprint if any problems occur in the sprint planning meeting
+
+### 4.2 Rules:
+Assign Task review state and the transition of acceptance criteria to Khaled Emad, Sara Sabry and Adel Sameh (Testing team) to indicate wether this task is accepted or failed and need to move back to "IN PROGRESS" again.
+Transition of stories between states cannot be done except by me (Ahmad Ossama) and the testing team members (Khaled Emad, Sara Sabry and Adel Sameh).
+Story cannot jump to "TASK REVIEW" from "TO DO" as it must moves first to "IN PROGRESS" state. As well as it  cannot jump to "DONE" from "IN PROGRESS" as it must moves first to "TASK REVIEW" state.
+No story can move from "IN PROGRESS" back to "TO DO" state as this will disturb the rest of the team. Whenever an assignee take a story he has to work on it.
