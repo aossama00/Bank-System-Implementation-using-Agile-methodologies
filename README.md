@@ -51,7 +51,7 @@ Create employee's account page
 Employees edit and control all customer's functionalities
 
 ## User Story Points estimation convention:
-Fibonacci Series (1, 2, 3, 5, 8, 13...), where 13 represents big story that needs a lot of functionalities and could be vague to the members so it will take about 5 working days. While 1 and 3 points represent well-known stories as homepage or account page design that does not need an effort and could be finished in 1 day or less. And 8 represent around 3 days.
+Fibonacci Series (1, 2, 3, 5, 8, 13...), where 13 represents big story that needs a lot of functionalities and could be vague to the members so it will take about 5 working days. While 1 and 2 points represent well-known stories as homepage or account page design that does not need an effort and could be finished in 1 day or less. 3 represent well known stories but requires more testing that takes 2 days. 5 and 8 represent around 3 - 4 days.
 
 ## Product Backlog Items (ordered rationale):
 The rationale of this order of my Product Backlog Items is that our team see it is the most important thing to crete a secured database to hold all customers' accounts.
@@ -62,6 +62,8 @@ then it must be secured to prevent data theft. Then the employee will need to lo
 * After that the employee can now add customers to the database so this option will be qualified for him to add them in database (assigned to Yara Wagdy).
 * Then Employee could also add records as transactions to customers' accounts which is dependent on the previous story (assigned to Yara Wagdy).
 * Manager which can also login to the system should have functionality of adding new employees has the least priority as adding new employees was not of high business value for the product owner (assigned to Omar fathy).
+* Then in the second epic the employee will be able to enter his account to control customers' accounts details. This point has high business value but it comes after all database and UI design is set to be able to work in bug-free environment. (assigned to Youssef Ali).
+* After that comes the stories of functionalities with less priorities that doesnot have to be ordered as withdrawal, depositing, adding records..etc. As they are all of same importance and have similar loads. (assigned to Ahmed Sobhy).
 
 The whole order of PBIs can be seen in the screenshots document 
 
@@ -70,7 +72,7 @@ The whole order of PBIs can be seen in the screenshots document
 # Part 2
 
 ## 1. Story Points
-Our team could do up to an average of 40 points in each sprint. Each sprint is 3 weeks. As sprint 1 was estimated as 34 and sprint 2 was 39
+Our team could do up to an average of 40 points in each sprint. Each sprint is 3 weeks. As sprint 1 was estimated as 34 and sprint 2 was 39.
 
 ## 2. Daily Scrum Document
 ### Example 1
